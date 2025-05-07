@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: color-cm
-  namespace: color-app
-data:
-  COLOR: "WHITE" 
