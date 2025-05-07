@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: color-cm
+  name: color-details
   namespace: color-app
 data:
   shape-color.txt: "white" 
