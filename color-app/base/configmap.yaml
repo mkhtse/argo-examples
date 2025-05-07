@@ -4,4 +4,4 @@ metadata:
   name: color-cm
   namespace: color-app
 data:
-  COLOR: "WHITE" 
+  COLOR: "GOLD" 
