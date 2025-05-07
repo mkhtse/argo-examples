@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: color-details
+  namespace: color-app
+data:
+  shape-color.txt: "gold" 
