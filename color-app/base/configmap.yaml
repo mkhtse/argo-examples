@@ -4,4 +4,4 @@ metadata:
   name: color-details
   namespace: color-app
 data:
-  shape-color.txt: "gold" 
+  shape-color.txt: "white" 
