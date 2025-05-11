@@ -1,0 +1,5 @@
+{
+    "name": "kustomize-webapp-prod-generated",
+    "targetNamespace": "kustomize-webapp-prod-as",
+    "kustomizePath": "kustomize-webapp/overlays/prod" 
+}
